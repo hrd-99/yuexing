@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 河海大学（211）| 软件工程专业 | 本科 
 
 Work experience
 ======
@@ -34,31 +32,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-   熟悉Golang，理解slice、map的底层原理，熟悉GMP调度模型、GC原理和内存分配机制。
+-   熟悉go-zero**、**gin、grpc开发框架及gorm对象关系映射框架的使用。
+-   熟悉MySQL关系型数据库及Redis、MongoDB、Elasticsearch等非关系型数据库
+-   熟悉计算机网络，理解TCP/IP通信原理，熟悉HTTP、TCP等网络协议。
+-   熟悉Git操作，具备使用Docker进行简单项目部署的能力。
+-   了解Linux系统的基本命令和使用，具有在Linux环境下的开发经验。
+-   熟悉 Kafka 的消息队列使用和配置，掌握其高吞吐与分布式架构；了解 RabbitMQ 的基础功能和应用场景。
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
