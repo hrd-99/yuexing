@@ -15,21 +15,16 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**奇虎360  公共订阅服务平台组  golang后端开发                      						  2024.8-至今**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- 通过Web UI进行安卓虚拟设备的连接和控制，并接入核心产品
+- 工程化开源项目atxserver2，并上线
+- 在开源项目 ATXServer2 中成功集成 mitmproxy 服务，实现了对 HTTP 和 HTTPS 请求的捕获、拦截，并将数据批量存储至 MongoDB
+- 为atxserver2升级，支持版本由android31至android34
+- 在android虚拟机上实现单一应用模式自动化
+- 优化android虚拟机的部署方式与控制
+- 为组内工具添加了“filescan可视化”模块，提升了数据展示和分析的直观性。
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 -   熟悉Golang，理解slice、map的底层原理，熟悉GMP调度模型、GC原理和内存分配机制。
