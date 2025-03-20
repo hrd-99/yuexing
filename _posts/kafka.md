@@ -10,3 +10,4 @@ excerpt: ""  # 这里设置为空，阻止预览
 
 
 
+![](.\static\kafka结构.jpg)
