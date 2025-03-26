@@ -1,7 +1,7 @@
 ---
 title: 'http/https相关'
 date: 2025-2-20
-permalink: /posts/2025/02/blog-post-9/
+permalink: /posts/2025/02/httphttps/
 tags:
   - 计算机网络
 excerpt: ""  # 这里设置为空，阻止预览
